@@ -26,7 +26,4 @@ This is a simple implementation of the classic **Rock, Paper, Scissors** game in
 ### Prerequisites
 - A C compiler such as `gcc`.
 
-### How to Compile and Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-c.git
+
